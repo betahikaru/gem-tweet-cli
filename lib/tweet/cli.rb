@@ -1,9 +1,10 @@
 require "tweet/cli/version"
 require "thor"
+require "t/cli"
 
 module Tweet
   module Cli
-    class Application < Thor
+    class Application < T::CLI
       desc "post WORD", "post Hello,Twitter"
       def post(word)
         say(word)
