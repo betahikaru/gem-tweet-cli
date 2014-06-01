@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tweet::Cli::VERSION
   spec.authors       = ["betahikaru"]
   spec.email         = ["beta.hikaru2000+bitbucket@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Tweet CLI}
+  spec.description   = %q{You can tweet on terminal.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

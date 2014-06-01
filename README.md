@@ -1,6 +1,6 @@
 # Tweet::Cli
 
-TODO: Write a gem description
+You can tweet from terminal.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+tweet {Tweet words}
 
 ## Contributing
 
